@@ -4,13 +4,13 @@ This repository contains R scripts to generate:
 - Volcano plots
 - Heatmaps of differentially expressed genes
 
-Data
+Data:
 The analysis is based on precomputed differential expression results.
 
-Usage
+Usage:
 Run the scripts BMP8B heatmap.R or BMP8B volcano plot.R
 
-Requirements
+Requirements:
 R packages:
 - ggplot2
 - readxl
