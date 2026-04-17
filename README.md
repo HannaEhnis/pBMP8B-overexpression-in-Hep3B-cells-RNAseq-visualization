@@ -8,7 +8,13 @@ Data:
 The analysis is based on precomputed differential expression results.
 
 Usage:
-Run the scripts BMP8B heatmap.R or BMP8B volcano plot.R
+Run the scripts 
+- BMP8B heatmap.R or
+- BMP8B volcano plot.R
+
+Parameters
+- adjusted p-value cutoff: 0.05
+- log2 fold change cutoff: ±1
 
 Requirements:
 R packages:
