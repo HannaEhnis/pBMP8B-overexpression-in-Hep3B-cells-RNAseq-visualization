@@ -23,3 +23,6 @@ R packages:
 - ggrepel
 - pheatmap
 - dplyr
+
+Notes
+No differential expression analysis was performed in this repository.
