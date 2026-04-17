@@ -1,2 +1,19 @@
 # pBMP8B-overexpression-in-Hep3B-cells-RNAseq-visualization
-Volcano plot and heatmap scripts for NRA-seq data visualization
+This repository contains R scripts to generate:
+
+- Volcano plots
+- Heatmaps of differentially expressed genes
+
+Data
+The analysis is based on precomputed differential expression results.
+
+Usage
+Run the scripts BMP8B heatmap.R or BMP8B volcano plot.R
+
+Requirements
+R packages:
+- ggplot2
+- readxl
+- ggrepel
+- pheatmap
+- dplyr
